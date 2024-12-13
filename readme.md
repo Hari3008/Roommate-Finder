@@ -25,8 +25,4 @@ Finding housing and compatible roommates is a major challenge for international 
 ## Deployed website
 https://course-project-web-dev.vercel.app/
 
-Parthav Nuthalapati
-
-Bhuvan Nallamothu
-
 
