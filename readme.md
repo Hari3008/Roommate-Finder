@@ -23,6 +23,4 @@ Finding housing and compatible roommates is a major challenge for international 
 ![UML](https://github.com/vivekdhir77/Course-Project-Web-dev/blob/main/class%20diag%20proj.png)
 
 ## Deployed website
-https://course-project-web-dev.vercel.app/
-
-
+https://roommate-finder-app.vercel.app/
