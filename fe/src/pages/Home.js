@@ -196,61 +196,6 @@ function Home() {
         </div>
       </section>
 
-      {/* Trust Section - Consistent spacing */}
-      <section className="py-24 bg-white">
-        <div className="container mx-auto px-6 max-w-6xl">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-800 mb-4">
-              Work done for CS5610 Fall 2024 @ Northeastern University, Boston
-            </h2>
-          </div>
-          <div className="grid md:grid-cols-2 gap-8 justify-center items-center">
-            {/* Team Column */}
-            <div className="space-y-6 text-center">
-              <div>
-                <h3 className="text-xl font-semibold text-gray-600"><u>Team Members (Section 3)</u></h3>
-              </div>
-              <div>
-                <h3 className="text-xl font-semibold text-gray-800">Sai Siddhartha Vivek Dhir Rangoju
-                </h3>
-              </div>
-              <div>
-                <h3 className="text-xl font-semibold text-gray-800">Sai Ritish Reddy Musku
-                </h3>
-              </div>
-              <div>
-                <h3 className="text-xl font-semibold text-gray-800">Parthav Nuthalapati
-                </h3>
-              </div>
-              <div>
-                <h3 className="text-xl font-semibold text-gray-800">Hariharasudan Savithri Anbarasu
-                </h3>
-              </div>
-              <div>
-                <h3 className="text-xl font-semibold text-gray-800">Bhuvan Nallamothu
-                </h3>
-              </div>
-            </div>
-
-            {/* Links Column */}
-            <div className="space-y-6 text-center">
-              <div>
-                <h3 className="text-xl font-semibold text-gray-800">GitHub (React + Nodejs)</h3>
-                <div className="space-y-2">
-                  <a href="https://github.com/vivekdhir77/Course-Project-Web-dev" target="_blank" className="text-blue-500">GitHub Link</a>
-                </div>
-              </div>
-              <div>
-                <h3 className="text-xl font-semibold text-gray-800">Website</h3>
-                <div className="space-y-2">
-                  <a href="https://course-project-web-dev.vercel.app/" target="_blank" className="text-blue-500">Website Link</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
 
 
     </div>
